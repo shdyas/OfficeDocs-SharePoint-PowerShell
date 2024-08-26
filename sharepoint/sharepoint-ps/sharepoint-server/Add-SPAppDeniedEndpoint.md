@@ -14,7 +14,7 @@ ms.reviewer:
 
 ## SYNOPSIS
 
-Adds a  relative URL endpoint of a server to the list of app-denied endpoints.
+Adds a  relative URL endpoint of a server to the list of app-denied endpoints. test
 
 
 
